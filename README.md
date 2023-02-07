@@ -1,4 +1,4 @@
-# WF
+# WF (day1)
 WF assignments and practices
 
 ![Screen Shot 2023-02-06 at 8 45 22 PM](https://user-images.githubusercontent.com/61067182/217134828-71aa92b4-28ff-4b2c-b836-a05e40e9f84d.png)
