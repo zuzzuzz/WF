@@ -1,3 +1,7 @@
+Day 2 Portfolio 
+![Screen Shot 2023-02-08 at 9 27 45 PM](https://user-images.githubusercontent.com/61067182/217710519-f5408c81-fb30-4b26-8428-8d7f773d931a.png)
+
+
 # WF (day1)
 WF assignments and practices
 
